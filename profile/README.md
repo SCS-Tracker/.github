@@ -17,7 +17,15 @@ TrackSim is for virtual trucking companies that have their own Drivers Hub and n
 Even if you do not have a Drivers Hub, look no further to our partner - CHub. They provide a customisable all-in-one Drivers Hub solution that uses TrackSim so you get the best of both worlds!
 
 **How much will it cost?**
-We haven't released our pricing yet but our intention is to charge a small monthly fee based on the number of drivers in your VTC. This will allow us to support continued development of the platform for the future and support monthly costs for servers. We plan to offer a limited Free Tier for developers to use as a testing ground.
+Our plans are monthly and based around the number of drivers you have within your VTC. You should choose the best plan for you. You can see all our plans below:  
+Free Tier: £0 a month (Up to 3 drivers, Limited Features)  
+Lite Tier: £3 a month (Up to 25 drivers)  
+Standard Tier: £6 a month (Up to 50 drivers)  
+Pro Tier: £10 a month (Up to 100 drivers)  
+Elite Tier: £15 a month (Up to 500 drivers)  
+Enterprise Tier: £30 a month (Unlimited drivers)
+
+*Pricing may vary if purchasing via our partners. Pricing may also change at anytime*
 
 **When are we launching?**
 Right now, we are currently in a closed testing stage but our roadmap sees a release before the end of March 2023.
