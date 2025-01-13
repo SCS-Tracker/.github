@@ -1,7 +1,6 @@
-![Logo](https://nathanpowell.uk/img/ZEWO9/lixAHIFU44.png/raw)
 # Welcome to TrackSim GitHub Page!
 
-From the developers behind Prime Logistics and CHub, we bring you TrackSim.
+From the developers behind Prime Logistics, we bring you TrackSim.
 A job logging solution for American Truck Simulator and Euro Truck Simulator 2 that processes the game data and sends it straight to your Drivers Hub with no fuss!
 
 **Gone are the days of trying to create your own solution...**  
@@ -28,10 +27,11 @@ Our plans are monthly and based around the number of drivers you have within you
 | Elite | £15 a month | Up to 500
 | Enterprise | £30 a month | Unlimited
 
-*Pricing may vary if purchasing via our partners. Pricing may also change at anytime*
+Pricing may vary if purchasing via our partners. Pricing may also change at anytime. Pricing correct at the time of commit, please check our website for full pricing information below.
 
 **When are we launching?**  
-~~Right now, we are currently in a closed testing stage but our roadmap sees a release before the end of March 2023.~~  
 We have released into a Public Early Access on March 10, 2023.
+
+[Check us out](https://tracksim.app)
 
 Join our Discord Server to stay up to date with our development process: https://discord.gg/upPvmwY4Az
